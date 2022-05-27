@@ -1,0 +1,250 @@
+﻿++Solución "TiendaVirutal" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:TiendaVirutal.sln
+++TiendaVirutal
+i:{00000000-0000-0000-0000-000000000000}:TiendaVirutal
+++Connected Services 
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:>301
+++Dependencias
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:>300
+++Analizadores
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:analizadores
+++Marcos de trabajo
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:marcos de trabajo
+++Paquetes
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:paquetes
+++Microsoft.EntityFrameworkCore.SqlServer (2.2.0)
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:>324
+++Microsoft.EntityFrameworkCore.Tools (2.2.0)
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:>326
+++Properties
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\properties\
+++wwwroot
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\
+++css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\css\
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\js\
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\
+++favicon.ico
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\favicon.ico
+++Controllers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\controllers\
+++Models
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\
+++Categoria.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\categoria.cs
+++Cliente.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\cliente.cs
+++ErrorViewModel.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\errorviewmodel.cs
+++Marca.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\marca.cs
+++Pedido.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\pedido.cs
+++PedidoDetalle.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\pedidodetalle.cs
+++Producto.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\producto.cs
+++Tarjeta.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\tarjeta.cs
+++TiendaVirtualDBContext.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\tiendavirtualdbcontext.cs
+++Usuario.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\models\usuario.cs
+++Views
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\
+++Home
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\home\
+++Index.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\home\index.cshtml
+++Privacy.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\home\privacy.cshtml
+++Shared
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\shared\
+++_Layout.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\_viewstart.cshtml
+++appsettings.json
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\appsettings.json
+++Program.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\program.cs
+++No se detectaron dependencias de servicio
+++Microsoft.AspNetCore.Analyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.2.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\sdk\6.0.104\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\microsoft.netcore.app
+++launchSettings.json
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\properties\launchsettings.json
+++site.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\css\site.css
+++site.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\js\site.js
+++bootstrap
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\
+++jquery
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery\
+++jquery-validation
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation-unobtrusive\
+++HomeController.cs
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\controllers\homecontroller.cs
+++_Layout.cshtml.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\appsettings.development.json
+++dist
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery\dist\
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery\license.txt
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:c:\users\toshiba\desktop\idat iv ciclo\programacion\tiendavirutal\tiendavirutal\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Base de datos de SQL Server (ConnectionStrings:TiendaVirtualDBConn)
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:>399
+++Se detectó una dependencia de Base de datos de SQL Server con connectionId "ConnectionStrings:TiendaVirtualDBConn"
+i:{65ed2fe0-8de1-470d-b5ee-cb01da309ded}:>400

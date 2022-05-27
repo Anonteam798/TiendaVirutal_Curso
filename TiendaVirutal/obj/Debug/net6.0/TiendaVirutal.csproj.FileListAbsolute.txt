@@ -24,3 +24,17 @@ C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\
 C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\obj\Debug\net6.0\ref\TiendaVirutal.dll
 C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\obj\Debug\net6.0\TiendaVirutal.pdb
 C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\obj\Debug\net6.0\TiendaVirutal.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\Idat IV ciclo\Programacion\TiendaVirutal\TiendaVirutal\obj\Debug\net6.0\TiendaVirutal.csproj.CopyComplete
